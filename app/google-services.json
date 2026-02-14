@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "706370821292",
+    "project_id": "live-earth-map-usman",
+    "storage_bucket": "live-earth-map-usman.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706370821292:android:e0099f61c1fd36cdea5309",
+        "android_client_info": {
+          "package_name": "com.liveearthmaphd.sharelocation.gpsnavigation.routeplanner.livesatellite"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtY4lh4TILyPdo8AAnhGcKcVUuUTI3Tug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

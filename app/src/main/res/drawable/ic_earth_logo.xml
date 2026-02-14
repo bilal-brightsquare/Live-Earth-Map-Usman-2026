@@ -1,0 +1,48 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Background rounded square -->
+    <path
+        android:fillColor="#0B1C2D"
+        android:pathData="M16,0h76a16,16 0 0,1 16,16v76a16,16 0 0,1 -16,16h-76a16,16 0 0,1 -16,-16v-76a16,16 0 0,1 16,-16z"/>
+
+    <!-- Earth Globe -->
+    <path
+        android:fillColor="#1E88E5"
+        android:pathData="M54,16a38,38 0 1,1 0,76a38,38 0 1,1 0,-76z"/>
+
+    <!-- Earth highlight -->
+    <path
+        android:fillColor="#4FC3F7"
+        android:fillAlpha="0.6"
+        android:pathData="M54,20a34,34 0 1,1 0,68a34,34 0 1,1 0,-68z"/>
+
+    <!-- Location Pin -->
+    <path
+        android:fillColor="#E53935"
+        android:pathData="M54,32c-7,0 -12,5 -12,12
+            0,8 12,20 12,20s12,-12 12,-20
+            c0,-7 -5,-12 -12,-12z"/>
+
+    <!-- Pin inner circle -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,38a4,4 0 1,1 0,8a4,4 0 1,1 0,-8z"/>
+
+    <!-- LIVE badge background -->
+    <path
+        android:fillColor="#FF1744"
+        android:pathData="M66,14h30a6,6 0 0,1 6,6v12a6,6 0 0,1 -6,6h-30a6,6 0 0,1 -6,-6v-12a6,6 0 0,1 6,-6z"/>
+
+    <!-- LIVE text -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="
+            M70,32h3v-8h-3z
+            M75,32h3v-8h-3z
+            M80,32h3l2,-8h-3l-1,5l-1,-5h-3z
+            M88,32h6v-2h-3v-2h3v-2h-3v-2h3v-2h-6z"/>
+</vector>

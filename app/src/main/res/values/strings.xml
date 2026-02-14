@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">Live Earh Map</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyA08YEcGPL4V4Vy7F3l7Of6-B-smUxdkW8</string>
+
+    <!-- Welcome / Common -->
+    <string name="skip">Skip</string>
+    <string name="next">Next</string>
+
+    <!-- Onboarding Screen 1 -->
+    <string name="onboarding_title_1">Explore Earth in Real Time</string>
+    <string name="onboarding_desc_1">
+        View the world with live satellite maps, earth visuals, and real-time locations.
+    </string>
+
+    <!-- Onboarding Screen 2 -->
+    <string name="onboarding_title_2">Live Maps &amp; Navigation</string>
+    <string name="onboarding_desc_2">
+        Navigate anywhere using accurate maps, street views, and real-time directions.
+    </string>
+
+    <!-- Onboarding Screen 3 -->
+    <string name="onboarding_title_3">Smart Location Features</string>
+    <string name="onboarding_desc_3">
+        Discover nearby places, track locations, and explore the world with ease.
+    </string>
+
+    <string name="premium_title">Unlock Live Earth Premium</string>
+    <string name="premium_subtitle">• HD Maps  • Real-Time Earth  • No Ads</string>
+    <string name="continu">Continue</string>
+
+    <!-- Swipe Hint -->
+    <string name="swipe_to_move_next_screen">Swipe to explore more features</string>
+
+    <!-- Accessibility (Optional but recommended) -->
+    <string name="content_next">Next</string>
+    <string name="content_skip">Skip onboarding</string>
+    <string name="share_app">Share App</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="feedback">Feedback</string>
+    <string name="remove_ads">Remove Ads</string>
+    <string name="privacy_policy_link" >https://sites.google.com/view/liveearthmapprivacypolicy2026/home</string>
+    <string name="how_would_you_rate_app_experience">How would you Rate App experience?</string>
+    <string name="submit">Submit</string>
+    <string name="your_opinion_matters_to_us">Your opinion matters to Us</string>
+    <string name="want_to_exit">Want to exit?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="enter_location_here">Enter location here..</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="google_map_navigation">Google Map Navigation</string>
+    <string name="you_re_going_to_navigate_out_of_the_app">You\'re going to navigate out of the app</string>
+    <string name="search..">Search..</string>
+    <string name="shopping">shoping</string>
+    <string name="services">Services</string>
+    <string name="bakery">Bakery</string>
+    <string name="clothing">Clothing</string>
+    <string name="food">Food</string>
+    <string name="grocery">Grocery</string>
+    <string name="bank">Bank</string>
+    <string name="atm" translatable="false">ATM</string>
+    <string name="college">College</string>
+    <string name="dental">Dental</string>
+    <string name="filling">Filling</string>
+    <string name="gym">GYM</string>
+    <string name="hospital">Hospital</string>
+    <string name="hotel">Hotel</string>
+    <string name="saloon">Saloon</string>
+    <string name="school">School</string>
+    <string name="shop">Shop</string>
+    <string name="pharma">Pharma</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="cafe">Cafe</string>
+    <string name="cinema">Cinema</string>
+    <string name="park">Park</string>
+    <string name="zoo">Zoo</string>
+    <string name="transport">Transport</string>
+    <string name="airport">Airport</string>
+    <string name="parking">Parking</string>
+    <string name="bus">Bus</string>
+    <string name="taxi">Taxi</string>
+    <string name="others">Others</string>
+    <string name="church">Church</string>
+    <string name="library">Library</string>
+    <string name="mosque">Mosque</string>
+    <string name="police">Police</string>
+    <string name="save_address">Save Address</string>
+    <string name="navigate">Navigate</string>
+    <string name="share">Share</string>
+    <string name="pin">Pin</string>
+    <string name="copy">Copy</string>
+    <string name="save">Save</string>
+    <string name="add_address">Add Address</string>
+    <string name="share_location">Share Location</string>
+</resources>
